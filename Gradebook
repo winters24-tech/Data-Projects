@@ -1,4 +1,4 @@
-# Create a gradebook and query it!
+/* Create a gradebook and query it! */
 CREATE TABLE student_grades (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT,
